@@ -1,0 +1,21 @@
+# Instructions
+
+## Running Experiments
+
+There are four jupyter notebook files in code zip.
+1. `HuggingFaceDecisionTransformer.ipynb`
+2. `decision_transformer_gym.ipynb`
+3. `decision_transformer_atari.ipynb`
+4. `online_dt.ipynb`
+
+The first file (1) is used to run the pre-trained model evaluation using HuggingFace models.
+The second file (2) is used to run Decision Transformer training on OpenAI Gym environments. 
+The thrid file (3) is used to run Decision Transformer training on Atari games.
+The fourth file (4) is used to run Online Decision Transformer training on both OpenAI Gym environments and Atari games.
+
+- Most of the instructions are present in the notebooks to follow along. 
+- Run each of the notebook files in Google Colab. 
+- Note that Google Drive has been linked to the notebook for data and output storage. 
+- The scripts for downloading datasets are already provided inside the notebooks.
+
+The notebooks access git repositories 'https://github.com/souradipp76/decision-transformer' and 'https://github.com/souradipp76/online-dt' where the actual Decision Tranformer and Online Decision Transformer code is present. These public repositories are forked versions of the official repositories on top of which modifications have been made to successfully run the experiments on Google Colab. 
