@@ -1,7 +1,7 @@
 # Reinforcement Learning via. Sequence Modeling using Decision Transformer
 
 ## Introduction
-This repository contains experiments to reproduce some of the results of the paper [Decision Transformer: Reinforcement Learning via Sequence Modeling (Chen et al.)](https://arxiv.org/abs/2106.01345) and [Online Decision Transformer (Zheng et al.)](https://arxiv.org/abs/2202.05607) and stduy the effect of context length on the variances of the expected returns in OpenAI Gym environments and Atari games. For more details, check out this [report](report.pdf) / [slides](slides.pptx).
+This repository contains experiments to reproduce some of the results of the paper [Decision Transformer: Reinforcement Learning via Sequence Modeling (Chen et al.)](https://arxiv.org/abs/2106.01345) and [Online Decision Transformer (Zheng et al.)](https://arxiv.org/abs/2202.05607) and study the effect of context length on the variances of the expected returns of the Decision Transformer model in OpenAI Gym environments and Atari games. For more details, check out this [report](report.pdf) / [slides](slides.pptx).
 
 <img src="outputs/halfcheetah.PNG" width="25%"></img> <img src="outputs/halfcheetah_k_rm_12000.PNG" width="33%"></img> <img src="outputs/halfcheetah_k_rstd_12000.PNG" width="33%">
 
