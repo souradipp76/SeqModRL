@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains experiments to reproduce some of the results of the paper [Decision Transformer: Reinforcement Learning via Sequence Modeling (Chen et al.)](https://arxiv.org/abs/2106.01345) and [Online Decision Transformer (Zheng et al.)](https://arxiv.org/abs/2202.05607) and stduy the effect of context length on the variances of the expected returns in OPen AI Gym environments and Atari games. For more details, check out this [report](report.pdf) / [slides](slides.pptx).
 
-<img src="outputs/halfcheetah.PNG" width="30%"></img> <img src="outputs/halfcheetah_k_rm_12000.PNG" width="30%"></img> <img src="outputs/halfcheetah_k_rstd_12000.PNG" width="30%">
+<img src="outputs/halfcheetah.PNG" width="25%"></img> <img src="outputs/halfcheetah_k_rm_12000.PNG" width="33%"></img> <img src="outputs/halfcheetah_k_rstd_12000.PNG" width="33%">
 
 ## Running Experiments
 - Run the notebook file `HuggingFaceDecisionTransformer.ipynb` and follow the instructions in the file to experiment with the pre-trained models using HuggingFace models.  
