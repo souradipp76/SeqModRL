@@ -21,3 +21,11 @@ This repository contains experiments to reproduce some of the results of the pap
 - Run the notebook file `online_dt.ipynb` and follow the instructions in the file. Note that Google Drive has been linked to the notebook for data and output storage. This notebook file is used to run Online Decision Transformer training on both OpenAI Gym environments and Atari games.
 <a src="https://colab.research.google.com/assets/colab-badge.svg" href="https://colab.research.google.com/github/souradipp76/SeqModRL/blob/main/online_dt.ipynb" target="_blank" rel="noopener noreferrer">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a>
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
